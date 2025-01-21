@@ -1,2 +1,1 @@
-print("jeellws")
-print("jsjs")
+print("hello world")
